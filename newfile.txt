@@ -1,2 +1,3 @@
  this is newfile on ec2
+dhsshkanksankanskas
 `
